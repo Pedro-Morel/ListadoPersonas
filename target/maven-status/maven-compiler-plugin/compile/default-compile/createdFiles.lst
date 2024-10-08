@@ -1,0 +1,4 @@
+com\pedro\dao\PersonaDAO.class
+com\pedro\domain\Persona.class
+test\OperacionesHibernateJPA.class
+test\Hibernate.class
